@@ -21,4 +21,3 @@
 |고상민|김건우|
 |:-:|:-:|
 |<img src="https://avatars.githubusercontent.com/u/43366876?v=4" width="150" height="150"/><br/>[@Dukkov](https://github.com/Dukkov)|<img src="https://avatars.githubusercontent.com/u/18142686?v=4" width="150" height="150"/><br/>[@GonnaWooh](https://github.com/GonnaWooh)|
-|||
