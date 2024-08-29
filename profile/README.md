@@ -83,6 +83,11 @@
 
 <br/>
 
+## 📄 데이터베이스 설계 ERD
+![image](https://github.com/user-attachments/assets/8ba9f766-dc25-4161-aabf-48fa018265f1)
+
+<br/>
+
 ## 🛠️ 기술 스택
 <img width="1149" alt="skills" src="https://github.com/user-attachments/assets/dbd194e7-2cc7-4b0f-bba1-a57b4ab2a7c4">
 
