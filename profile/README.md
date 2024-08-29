@@ -97,6 +97,7 @@
 ```
 2024.07.29 - 2024.08.29
 ```
+<a href="https://prgrms.notion.site/837195e233544e6b9f1948b9c1ac535d?pvs=4"> 서비스 소개 보러가기</a>
 
 <br/>
 
