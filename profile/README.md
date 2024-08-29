@@ -83,8 +83,10 @@
 
 <br/>
 
-## 📄 데이터베이스 설계 ERD
-![image](https://github.com/user-attachments/assets/8ba9f766-dc25-4161-aabf-48fa018265f1)
+## 📄 BE 설계
+|시스템 아키텍처 다이어그램|<img width="942" alt="스크린샷 2024-08-29 오후 8 23 54" src="https://github.com/user-attachments/assets/dcd6585f-4227-4095-824f-7cccd950d33a">|
+|:-:|:-:|
+|데이터베이스 설계 ERD|![image](https://github.com/user-attachments/assets/8ba9f766-dc25-4161-aabf-48fa018265f1)|
 
 <br/>
 
